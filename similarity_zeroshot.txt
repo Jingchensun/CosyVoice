@@ -1,0 +1,77 @@
+speaker,generated_file,original_file,similarity_score
+01_M_native,003_hop back in the pound .wav,hop back in the pound .wav,0.175499
+01_M_native,023_the boy found the shoe .wav,the boy found the shoe .wav,0.539911
+01_M_native,039_a boy looking at the frog.wav,a boy looking at the frog.wav,0.407491
+01_M_native,042_uhh he's looking at it.wav,uhh he's looking at it.wav,0.452420
+01_M_native,043_he licks him 'cos he wanted to put the frog in   .wav,he licks him 'cos he wanted to put the frog in   .wav,0.595064
+01_M_native,063_the frog is gone.wav,the frog is gone.wav,0.569023
+01_M_native,064_the boy is mad.wav,the boy is mad.wav,0.755602
+01_M_native,099_a dog fell out .wav,a dog fell out .wav,0.521217
+02_M_nonNative,008_and over here when the girl woke up .wav,and over here when the girl woke up .wav,0.391075
+02_M_nonNative,014_and he licked on him.wav,and he licked on him.wav,0.441873
+02_M_nonNative,014_and he's looking for the frog .wav,and he's looking for the frog .wav,0.720545
+02_M_nonNative,015_the frog is something out .wav,the frog is something out .wav,0.483940
+02_M_nonNative,019_and he has fallen off of the window .wav,and he has fallen off of the window .wav,0.601058
+02_M_nonNative,023_and the dog woke up .wav,and the dog woke up .wav,0.349801
+02_M_nonNative,025_and he the frog was gone.wav,and he the frog was gone.wav,0.520129
+02_M_nonNative,028_a frog a dog and a girl .wav,a frog a dog and a girl .wav,0.502720
+02_M_nonNative,028_the girl because shout frog and the dog woof .wav,the girl because shout frog and the dog woof .wav,0.654199
+02_M_nonNative,031_and and the girl looked at him .wav,and and the girl looked at him .wav,0.475949
+02_M_nonNative,059_and and and he's looking at the window around him too.wav,and and and he's looking at the window around him too.wav,0.545895
+02_M_nonNative,064_and he has fallen the glass.wav,and he has fallen the glass.wav,0.388374
+02_M_nonNative,066_and the girl is sleeping and the dog .wav,and the girl is sleeping and the dog .wav,0.448092
+02_M_nonNative,069_and because he cracked his egg.wav,and because he cracked his egg.wav,0.453509
+02_M_nonNative,074_and they are looking at the frog .wav,and they are looking at the frog .wav,0.471090
+02_M_nonNative,078_and the dog is looking for the frog.wav,and the dog is looking for the frog.wav,0.425245
+02_M_nonNative,091_and the morning.wav,and the morning.wav,0.385148
+02_M_nonNative,099_and he's mad.wav,and he's mad.wav,0.405472
+03_F_native,006_the dog and the kid is looking at the the the frog.wav,the dog and the kid is looking at the the the frog.wav,0.530043
+03_F_native,008_a frog is in the I don't know what the frog is in .wav,a frog is in the I don't know what the frog is in .wav,0.460885
+03_F_native,008_uuuhhh the dog hm jumps out of the window .wav,uuuhhh the dog hm jumps out of the window .wav,0.616889
+03_F_native,030_the frog is tip toeing out of the jar .wav,the frog is tip toeing out of the jar .wav,0.487847
+03_F_native,031_when they see the frog out the jar .wav,when they see the frog out the jar .wav,0.512513
+03_F_native,059_they look in the boot .wav,they look in the boot .wav,0.595401
+03_F_native,067_they look outside .wav,they look outside .wav,0.637346
+03_F_native,089_the dog is look smelling .wav,the dog is look smelling .wav,0.631526
+03_F_native,094_and then the boy is mad.wav,and then the boy is mad.wav,0.644425
+04_M_nonNative,001_the bottle and it was in there .wav,the bottle and it was in there .wav,0.549354
+04_M_nonNative,004_he he wake up.wav,he he wake up.wav,0.477367
+04_M_nonNative,007_the dog shake the dog smell the pet .wav,the dog shake the dog smell the pet .wav,0.554563
+04_M_nonNative,019_and the and the frog is happy .wav,and the and the frog is happy .wav,0.682859
+04_M_nonNative,023_and was going to get out .wav,and was going to get out .wav,0.505801
+04_M_nonNative,029_a frog and there is no frog in the bottle now.wav,a frog and there is no frog in the bottle now.wav,0.671874
+04_M_nonNative,042_the kid went to sleep and the dog went to sleep.wav,the kid went to sleep and the dog went to sleep.wav,0.538653
+04_M_nonNative,046_a frog and a dog and a kid.wav,a frog and a dog and a kid.wav,0.621356
+04_M_nonNative,050_and there wasn't the dog .wav,and there wasn't the dog .wav,0.543915
+04_M_nonNative,059_and the kid wake up when the dog wake up .wav,and the kid wake up when the dog wake up .wav,0.675585
+04_M_nonNative,065_and they spit out up a water .wav,and they spit out up a water .wav,0.733060
+04_M_nonNative,067_and the frog got looking at them .wav,and the frog got looking at them .wav,0.497082
+04_M_nonNative,067_it's about frogs .wav,it's about frogs .wav,0.458306
+04_M_nonNative,078_and and he skipped out the the the bottle  .wav,and and he skipped out the the the bottle  .wav,0.641079
+04_M_nonNative,079_and and the frog didn't went to sleep .wav,and and the frog didn't went to sleep .wav,0.604370
+04_M_nonNative,088_they are looking at the frogs.wav,they are looking at the frogs.wav,0.541697
+04_M_nonNative,091_the what is that_.wav,the what is that_.wav,0.486768
+04_M_nonNative,094_the kid shout on the the the witch hat .wav,the kid shout on the the the witch hat .wav,0.612015
+05_F_native,001_and the kid is watching  .wav,and the kid is watching  .wav,0.324207
+05_F_native,006_the kid woke up so did the dog .wav,the kid woke up so did the dog .wav,0.764921
+05_F_native,018_when the kid and the dog is asleep.wav,when the kid and the dog is asleep.wav,0.629860
+05_F_native,021_he was searching for him everywhere .wav,he was searching for him everywhere .wav,0.575959
+05_F_native,029_the dog is looking in the jar and the kid is watching .wav,the dog is looking in the jar and the kid is watching .wav,0.550535
+05_F_native,030_but they couldn't find him .wav,but they couldn't find him .wav,0.573739
+05_F_native,063_because he can't find the frog.wav,because he can't find the frog.wav,0.577881
+05_F_native,078_and the kid jumped out of the window after him .wav,and the kid jumped out of the window after him .wav,0.785729
+05_F_native,079_and he saw that the frog was gone.wav,and he saw that the frog was gone.wav,0.562980
+05_F_native,091_the frog is getting out of the jar .wav,the frog is getting out of the jar .wav,0.705252
+05_F_native,094_the dog fell out of the window .wav,the dog fell out of the window .wav,0.675308
+06_M_native,007_and he's awake .wav,and he's awake .wav,0.530076
+06_M_native,007_and he's going like what's up on top of it .wav,and he's going like what's up on top of it .wav,0.559472
+06_M_native,008_and the dog is down below.wav,and the dog is down below.wav,0.573485
+06_M_native,015_and he is not very happy .wav,and he is not very happy .wav,0.559566
+06_M_native,020_and he climbs over it's in there .wav,and he climbs over it's in there .wav,0.336493
+06_M_native,021_and he hides from the owl or vulture.wav,and he hides from the owl or vulture.wav,0.529321
+06_M_native,029_and he's jumping out of the window.wav,and he's jumping out of the window.wav,0.547577
+06_M_native,050_and he puts a hat on.wav,and he puts a hat on.wav,0.620338
+06_M_native,063_and the boy is looking at it .wav,and the boy is looking at it .wav,0.509078
+06_M_native,064_and he's shouting  out .wav,and he's shouting  out .wav,0.666474
+06_M_native,066_and he puts a a pot on top of his head.wav,and he puts a a pot on top of his head.wav,0.620169
+06_M_native,068_and all the bees are going like that and he's frightened.wav,and all the bees are going like that and he's frightened.wav,0.621554

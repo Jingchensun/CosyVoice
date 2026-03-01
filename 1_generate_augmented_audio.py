@@ -21,9 +21,8 @@ sys.path.append('third_party/Matcha-TTS')
 from cosyvoice.cli.cosyvoice import AutoModel
 from cosyvoice.utils.common import set_all_random_seed
 
-#AUDIO_PATH = 'dataset/english_free_speech/files_cut_by_sentences/01_M_native/a boy looking at the frog.wav'
-AUDIO_PATH =  'asset/zero_shot_prompt.wav'
-TRANSCRIPTION = '请非常开心地说一句话'
+AUDIO_PATH = 'dataset/english_free_speech/files_cut_by_sentences/01_M_native/a boy looking at the frog.wav'
+TRANSCRIPTION = 'it’s broken'
 OUTPUT_DIR = 'audio_generate'
 
 # -----------------------------------------------------------------------
