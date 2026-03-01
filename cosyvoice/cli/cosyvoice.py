@@ -16,7 +16,7 @@ import time
 from typing import Generator
 from tqdm import tqdm
 from hyperpyyaml import load_hyperpyyaml
-from modelscope import snapshot_download
+from huggingface_hub import snapshot_download as hf_snapshot_download
 import torch
 from cosyvoice.cli.frontend import CosyVoiceFrontEnd
 from cosyvoice.cli.model import CosyVoiceModel, CosyVoice2Model, CosyVoice3Model
@@ -30,7 +30,7 @@ class CosyVoice:
         self.model_dir = model_dir
         self.fp16 = fp16
         if not os.path.exists(model_dir):
-            model_dir = snapshot_download(model_dir)
+            model_dir = hf_snapshot_download(repo_id=model_dir)
         hyper_yaml_path = '{}/cosyvoice.yaml'.format(model_dir)
         if not os.path.exists(hyper_yaml_path):
             raise ValueError('{} not found!'.format(hyper_yaml_path))
@@ -142,7 +142,7 @@ class CosyVoice2(CosyVoice):
         self.model_dir = model_dir
         self.fp16 = fp16
         if not os.path.exists(model_dir):
-            model_dir = snapshot_download(model_dir)
+            model_dir = hf_snapshot_download(repo_id=model_dir)
         hyper_yaml_path = '{}/cosyvoice2.yaml'.format(model_dir)
         if not os.path.exists(hyper_yaml_path):
             raise ValueError('{} not found!'.format(hyper_yaml_path))
@@ -192,7 +192,7 @@ class CosyVoice3(CosyVoice2):
         self.model_dir = model_dir
         self.fp16 = fp16
         if not os.path.exists(model_dir):
-            model_dir = snapshot_download(model_dir)
+            model_dir = hf_snapshot_download(repo_id=model_dir)
         hyper_yaml_path = '{}/cosyvoice3.yaml'.format(model_dir)
         if not os.path.exists(hyper_yaml_path):
             raise ValueError('{} not found!'.format(hyper_yaml_path))
@@ -227,7 +227,7 @@ class CosyVoice3(CosyVoice2):
 
 def AutoModel(**kwargs):
     if not os.path.exists(kwargs['model_dir']):
-        kwargs['model_dir'] = snapshot_download(kwargs['model_dir'])
+        kwargs['model_dir'] = hf_snapshot_download(repo_id=kwargs['model_dir'])
     if os.path.exists('{}/cosyvoice.yaml'.format(kwargs['model_dir'])):
         return CosyVoice(**kwargs)
     elif os.path.exists('{}/cosyvoice2.yaml'.format(kwargs['model_dir'])):

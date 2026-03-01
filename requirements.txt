@@ -6,6 +6,7 @@ diffusers==0.29.0
 fastapi==0.115.6
 fastapi-cli==0.0.4
 gdown==5.1.0
+huggingface_hub>=0.20.0
 gradio==5.4.0
 grpcio==1.57.0
 grpcio-tools==1.57.0
@@ -22,12 +23,13 @@ omegaconf==2.3.0
 onnx==1.16.0
 onnxruntime-gpu==1.18.0; sys_platform == 'linux'
 onnxruntime==1.18.0; sys_platform == 'darwin' or sys_platform == 'win32'
-openai-whisper==20231117
+openai-whisper
 protobuf==4.25
 pyarrow==18.1.0
 pydantic==2.7.0
 pyworld==0.3.4
 rich==13.7.1
+setuptools>=65.0.0
 soundfile==0.12.1
 tensorboard==2.14.0
 tensorrt-cu12==10.13.3.9; sys_platform == 'linux'
